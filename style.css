@@ -1,0 +1,19 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+
+body{
+    background-color: #0b0b1e;
+    color: #afa3ec;
+    font-family: 'Grand Hotel', cursive;
+}
+h1,p,h2{
+    text-align: center;
+    font-size: xx-large;
+}
+
+a{
+    text-align: center;
+    color: #afa3ec;
+    font-size:x-large;
+}
